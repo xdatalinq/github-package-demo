@@ -1,7 +1,7 @@
 {
   "name": "@xdatalinq/github-package-demo",
-  "repository": {
-    "url": "git://github.com/xdatalinq/github-package-demo.git"
+  "publishConfig": {
+    "@xdatalinq:registry": "https://npm.pkg.github.com"
   },
   "version": "1.0.0",
   "description": "",
